@@ -20,7 +20,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/fclaudio051/projetos/Aritigos/Ebook/Dio/output/ebookReact.pdf"> 📕Clique aqui para ler</a>
+<a href="file:///c%3A/Users/Claudim/Desktop/projetos/Dio/Ebook/Dio/output/Apresenta%C3%A7%C3%A3o%20sem%20t%C3%ADtulo%20%281%29.pdf"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
